@@ -1,0 +1,80 @@
+ <div>
+            <section class="section2" id="about">
+                <div class="section2_content">
+                    <h2>ABOUT US</h2>
+                    <div class="line"></div>
+                    <h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                        dolore magna aliqua.
+                    </h6>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                        ex ea commodo
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, laborum saepe repellendus quae
+                        expedita tempora assumenda unde, ducimus deleniti quas vitae ut error vel blanditiis velit. Cupiditate
+                        labore blanditiis tempora?
+                    </p>
+                    <button class="btn"><a href="#">get in touch</a></button>
+                </div>
+                <div class="sec2img">
+                    <img src={fitness2} alt="logo" />
+                </div>
+
+            </section>
+            <section class="section5" id="contact">
+                <div class="section_heding">
+                    <h3>expert trainer</h3>
+                    <div class="lineItem"></div>
+                </div>
+
+                <div class="section5_container">
+                    <div class="section5_box">
+                        <img class="img" src={fitness7} alt="" />
+                        <div class="s5b">
+                            <h5>Sarra Miller</h5>
+                            <span>spinning trainer</span>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint nostrum tenetur obcaecati, quidem
+
+                                corrupti iste distinctio hic </p>
+                            <div class="social_icon">
+                                <i class="fa-brands fa-facebook-f"></i>
+                                <i class="fa-brands fa-twitter"></i>
+                                <i class="fa-brands fa-instagram"></i>
+                                <i class="fa-brands fa-whatsapp"></i>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section5_box">
+                        <img class="img" src={fit8} alt="" />
+                        <div class="s5b">
+                            <h5>karter sleg</h5>
+                            <span>yoga trainer</span>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis libero, cum debitis, </p>
+                            <div class="social_icon">
+                                <i class="fa-brands fa-facebook-f"></i>
+                                <i class="fa-brands fa-twitter"></i>
+                                <i class="fa-brands fa-instagram"></i>
+                                <i class="fa-brands fa-whatsapp"></i>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section5_box">
+                        <img class="img" src={fit9} alt="" />
+                        <div class="s5b">
+                            <h5>jon mathu</h5>
+                            <span>body trainer</span>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui sequi deserunt perferendis aliquid
+
+                                repellendus fuga autem maxime iusto laborum quod eaque facilis.</p>
+                            <div class="social_icon">
+                                <i class="fa-brands fa-facebook-f"></i>
+                                <i class="fa-brands fa-twitter"></i>
+                                <i class="fa-brands fa-instagram"></i>
+                                <i class="fa-brands fa-whatsapp"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
